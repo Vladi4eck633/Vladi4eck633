@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+
+<img width="50" height="32" alt="Image" src="https://github.com/user-attachments/assets/98c0c830-8e83-4ddd-8399-b033db758be5" />
 <!--
 **Vladi4eck633/Vladi4eck633** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
