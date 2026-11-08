@@ -31,6 +31,20 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
+
+<h2>
+ Some featured projects
+</h2> 
+
+<div align="center">
+
+| Project | Description | Link |
+|---|---|---|
+| **Voice-overlay** | Speech-To-Text utility | [Repository](https://github.com/Vladi4eck633/voice-overlay) |
+| **Student Journal** | Cross-platform student dashboard with FastAPI backend | [Repository](https://github.com/Vladi4eck633/Project-Dekstop) |
+|  **WIP** | Real-time game assistant for League of Legends | [WIP]
+
+</div>
 <!--
 **Vladi4eck633/Vladi4eck633** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
