@@ -13,12 +13,24 @@
   About me 
 </h2>
 
-&nbsp; **3rd-year CS & AI student** @ **Wyższa Szkoła Bankowa w Gdańsku.** \
-&nbsp; I build **practical applications** and personal **pet projects**, aiming to align them with **market needs** or **my own needs** accordingly. \
-&nbsp; Learning deeper: **Project Architecture, AI integrations, Local AI, Data Science.** \
-&nbsp; Apart from **techical interests** I like **drawing, cooking, playing games, chess.** \
-&nbsp; Got some **experience** in group projects, **looking forward** to **gain** a lot more. 
+ - **3rd-year CS & AI student** @ **Wyższa Szkoła Bankowa w Gdańsku.** 
+ - I build **practical applications** and personal **pet projects**, aiming to align them with **market needs** or **my own needs** accordingly. 
+ - Learning deeper: **Project Architecture, AI integrations, Local AI, Data Science.** 
+ - Apart from **techical interests** I like **drawing, cooking, playing games, chess.** 
+ - Got some **experience** in group projects, **looking forward** to **gain** a lot more. 
 
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 <!--
 **Vladi4eck633/Vladi4eck633** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
