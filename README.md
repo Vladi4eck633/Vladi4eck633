@@ -18,7 +18,7 @@
  - Learning deeper: **Project Architecture, AI integrations, Local AI, Data Science.** 
  - Apart from **techical interests** I like **drawing, cooking, playing games, chess.** 
  - Got some **experience** in group projects, **looking forward** to **gain** a lot more. 
-
+ - Feel free to reach me at **zubakvladislav532@gmail.com** <img width="24" height="24" alt="flushed" src="https://cdn.7tv.app/emote/01H7DNX06R000DPT4XE6E811PN/1x.png" />
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
